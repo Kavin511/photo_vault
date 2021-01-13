@@ -1,0 +1,17 @@
+{
+  "auth": {
+    "gallerysample26f87dab": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  },
+  "api": {},
+  "storage": {
+    "s3cfdd8e1a": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
+    }
+  }
+}
