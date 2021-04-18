@@ -21,7 +21,11 @@ const amplifyconfig = ''' {
                     "Default": {
                         "PoolId": "ap-south-1_i6svZeJEh",
                         "AppClientId": "3p5479ou83kekb3f01an66h8vo",
+<<<<<<< HEAD
                         "AppClientSecret": "YOUR_SECRET_KEY",
+=======
+                        "AppClientSecret": "vj8h11e4sga8h3164emaiah0kmd6mk3mn4carmmifpu05m6o95e",
+>>>>>>> ce8b8d7... Initial commit
                         "Region": "ap-south-1"
                     }
                 },
@@ -68,4 +72,8 @@ const amplifyconfig = ''' {
             }
         }
     }
+<<<<<<< HEAD
 }''';
+=======
+}''';
+>>>>>>> ce8b8d7... Initial commit

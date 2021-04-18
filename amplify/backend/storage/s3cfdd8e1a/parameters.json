@@ -1,7 +1,12 @@
 {
     "bucketName": "gallerysample909aa8135f9c4478a708dfae7be1074c",
+<<<<<<< HEAD
     "authPolicyName": "YOUR_AUTH_POLICY_NAME",
     "unauthPolicyName": "YOUR_UNAUTH_POLICY_NAME",
+=======
+    "authPolicyName": "s3_amplify_cfdd8e1a",
+    "unauthPolicyName": "s3_amplify_cfdd8e1a",
+>>>>>>> ce8b8d7... Initial commit
     "authRoleName": {
         "Ref": "AuthRoleName"
     },
@@ -32,4 +37,8 @@
     "s3PermissionsGuestUploads": "DISALLOW",
     "GuestAllowList": "DISALLOW",
     "triggerFunction": "NONE"
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> ce8b8d7... Initial commit
