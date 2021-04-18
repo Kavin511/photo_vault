@@ -1,7 +1,7 @@
 {
     "bucketName": "gallerysample909aa8135f9c4478a708dfae7be1074c",
-    "authPolicyName": "s3_amplify_cfdd8e1a",
-    "unauthPolicyName": "s3_amplify_cfdd8e1a",
+    "authPolicyName": "YOUR_AUTH_POLICY_NAME",
+    "unauthPolicyName": "YOUR_UNAUTH_POLICY_NAME",
     "authRoleName": {
         "Ref": "AuthRoleName"
     },
